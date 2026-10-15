@@ -9,7 +9,7 @@ Computer science student at [HIT](https://www.hit.ac.il/). I build small product
 | [claude-server-control-plugin](https://github.com/d0raka/claude-server-control-plugin) | Claude Cowork plugin that controls a Linux, macOS, or Windows machine over SSH |
 | [keepsafe](https://github.com/d0raka/keepsafe) | Local-first password manager for macOS and iOS, encrypted on the device |
 | [courtside-tennis](https://github.com/d0raka/courtside-tennis) | Living-room tennis for one screen and two phones |
-| [d0rz](https://github.com/d0raka/d0rz) | Public homepage, Vite and TypeScript, live at [d0rz.is-a.dev](https://d0rz.is-a.dev) |
+| [d0rz](https://github.com/d0raka/d0rz) | Public homepage, Vite and TypeScript, live at [d0raka.github.io/d0rz](https://d0raka.github.io/d0rz/) |
 | [psn-stock-bot](https://github.com/d0raka/psn-stock-bot) | Self-hosted Telegram alerts for PlayStation gift cards on Amazon India |
 | [d0rz-status](https://github.com/d0raka/d0rz-status) | Public status JSON that feeds the d0rz homepage |
 

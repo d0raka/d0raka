@@ -6,7 +6,7 @@ Computer science student, I build small products around AI, developer tools, and
 
 | Project | What it is |
 | --- | --- |
-| [d0rz](https://github.com/d0raka/d0rz) | Public homepage, Vite and TypeScript, live at [d0raka.github.io/d0rz](https://d0raka.github.io/d0rz/) |
+| [d0rz](https://github.com/d0raka/d0rz) | Public homepage, Vite and TypeScript, live at [d0raka.github.io/d0rz](https://d0raka.cc) |
 | [courtside-tennis](https://github.com/d0raka/courtside-tennis) | Living-room tennis for one screen and two phones |
 | [psn-stock-bot](https://github.com/d0raka/psn-stock-bot) | Self-hosted Telegram alerts for PlayStation gift cards on Amazon India |
 | [keepsafe](https://github.com/d0raka/keepsafe) | Local-first password manager for macOS and iOS, encrypted on the device |
